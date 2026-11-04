@@ -1,4 +1,4 @@
-DevOps infrastructure repository
+# DevOps Infrastructure Repository (вариант B)
 
 О проекте
 Учебный репозиторий девопс инфраструктуры : 
