@@ -18,3 +18,5 @@ docker run -d -p 5000:5000 calculator-app
 Open 'http://localhost:5000'
 CI/CD
 Workflow `.github/workflows/ci.yml` запускается на push и pull request в main.
+Deployment 
+Автоматический деплой пока не настроен. Для локального запуска надо использовать раздел Запуск через Docker
